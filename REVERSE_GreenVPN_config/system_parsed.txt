@@ -1,0 +1,9 @@
+[更新源]
+host01=www.tocqueville.co
+host02=www.leisu100.com
+
+[WEB站点]
+web=www.tocqueville.co
+protocal=https
+ipaddr=www.tocqueville.co
+port=80
